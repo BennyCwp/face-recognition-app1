@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.center-form {
+  position: relative;
+  top: 50vh;
+  transform: translateY(-70%);
+}
